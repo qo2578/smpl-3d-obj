@@ -1,0 +1,3 @@
+# Отключаем автоматическое преобразование окончаний строк для package.json и package-lock.json
+package.json -text
+package-lock.json -text
